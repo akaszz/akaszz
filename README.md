@@ -27,10 +27,12 @@
 <br />
 
 ---
-
-
 <br />
-
 
 <img align="left" alt="Hemanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akaszz&show_icons=true&hide_border=true" />
 
+## Reach me
+
+<a href="mailto:hemanthravishankar010@gmail.com" target="_blank">
+	<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a> 
