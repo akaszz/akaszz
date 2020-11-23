@@ -29,7 +29,7 @@
 ---
 <br />
 
-<img align="left" alt="Hemanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akaszz&show_icons=true&hide_border=true" />
+<img align="left" color="red" alt="Hemanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akaszz&show_icons=true&hide_border=true" />
 
 ## Reach me
 
