@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a developing my skills on cloud computing!
 - 🌱 I’m currently learning everything relevant and taking all the oppurtinity I can get
 - 👨🏾‍💻 I’m looking to collaborate with other devops & cloud engineers
-- 🥅 2020 Goals: Be more engaged on contributing to Open Source projects
+- 🥅 2021 Goals: Be more engaged on contributing to Open Source projects
 
 <br />
 
